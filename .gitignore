@@ -1,3 +1,4 @@
 NerfSentry/obj/
 NerfSentry/project.lock.json
 *.suo
+NerfSentry/bin/
